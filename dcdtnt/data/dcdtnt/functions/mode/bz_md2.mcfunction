@@ -1,0 +1,5 @@
+tellraw @a [{"text":"\n\n\n\n\n"}]
+tellraw @a [{"text":"=======================","color":"green","bold":true}]
+tellraw @a [{"text":"【模式2-石头】！","color":"red","bold":true}]
+tellraw @a [{"text":"对于以下方块生效：石头，花岗岩，闪长岩，安山岩，凝灰岩，方解石，深板岩，滴水石块","color":"yellow"}]
+tellraw @a [{"text":"=======================","color":"green","bold":true}]

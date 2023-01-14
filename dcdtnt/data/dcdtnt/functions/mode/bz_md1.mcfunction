@@ -1,0 +1,5 @@
+tellraw @a [{"text":"\n\n\n\n\n"}]
+tellraw @a [{"text":"=======================","color":"green","bold":true}]
+tellraw @a [{"text":"【模式1-草方块】！","color":"red","bold":true}]
+tellraw @a [{"text":"对于以下方块生效：草方块，绯红菌岩，诡异菌岩，泥土，砂土，灰化土，缠根泥土，泥巴","color":"yellow"}]
+tellraw @a [{"text":"=======================","color":"green","bold":true}]
