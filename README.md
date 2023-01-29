@@ -3,7 +3,7 @@
 
  --------------------
 
-***请勿直接打包下载，下载请前往[releases](https://github.com/friends-xiaohuli/DcdTNT/releases)下载***
+***请勿直接打包下载，下载请前往[releases](https://github.com/friends-xiaohuli/Dcd_TNT/releases)下载***
 
 --------------------
 
