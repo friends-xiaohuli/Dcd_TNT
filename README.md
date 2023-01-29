@@ -1,6 +1,13 @@
 # DcdTNT
  当踩到XX就生成TNT
 
+ --------------------
+
+***请勿直接打包下载，下载请前往[releases](https://github.com/friends-xiaohuli/DcdTNT/releases)下载***
+
+--------------------
+
+
 ## 介绍
 
 版本：JE[1.19.X]（含高版本方块判定，低版本未经测试）
