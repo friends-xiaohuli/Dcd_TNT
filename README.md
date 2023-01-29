@@ -18,7 +18,7 @@
 
 当你踩到设定的方块就会生成TNT，设置书能自定义方块类型，多人可单人设置或同步。
 
-![1ee60453685646f39fa03f74b18f4415.png](https://s1.imagehub.cc/images/2022/12/29/1ee60453685646f39fa03f74b18f4415.png)
+![](https://cdn.jsdelivr.net/gh/friends-xiaohuli/Image-warehouse@main/Default%20picture/20230130-03:50:15-%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202022-12-29%20145510-a2707b.png)
 
 ## 使用方法
 
